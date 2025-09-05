@@ -14,8 +14,8 @@ const HeroSection = () => {
           <a href="/signup" className="px-6 py-3 bg-indigo-600 text-white rounded-md font-semibold hover:bg-indigo-700">
             Get Started Free
           </a>
-          <a href="#demo" className="px-6 py-3 border border-indigo-600 text-indigo-600 rounded-md font-semibold hover:bg-indigo-100">
-            Watch Demo
+          <a href="/templates" className="px-6 py-3 bg-white text-indigo-600 border border-indigo-600 rounded-md font-semibold hover:bg-indigo-50">
+            Explore Templates
           </a>
         </div>
       </div>
