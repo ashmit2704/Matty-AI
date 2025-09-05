@@ -1,0 +1,20 @@
+.Dashboard {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 100px 16px;
+    background-color: gray;
+    min-height: 100vh;
+    height: 100%;
+}
+
+#canvas {
+    border: 1px solid gray;
+    z-index: 2;
+}
+
+.lower-canvas {
+    position: initial !important;
+}
